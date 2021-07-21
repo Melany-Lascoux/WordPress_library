@@ -7,7 +7,8 @@ Elaboration d'un site e-commerce de vente de livres en ligne.
 2. Une page Boutique avec la possibilité de voir les différentes catégories de produits, et le nombre de produits par catégorie.
 3. Une page Compte où l'utilisateur peut s'inscrire, se connecter et gérer ses informations de compte.
 4. Une page Commande qui renvoie aux commandes en cours ou passées.
-5. Une page Deconnexion qui permet à l'utilisateur de se déconnecter et qui le renvoi sur une page de connexion au site.
+5. Un page panier qui renvoie à une page de validation de commande. On y trouve le montant des articles. Lorsque l'on valide la commande, on est renvoyé sur une page de validation avec un formulaire à remplir.
+6. Une page Deconnexion qui permet à l'utilisateur de se déconnecter et qui le renvoi sur une page de connexion au site.
 
 ## Widgets
 1. Une barre de recherche qui permet de rechercher un produit.
