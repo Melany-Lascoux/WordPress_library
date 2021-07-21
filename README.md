@@ -1,17 +1,19 @@
-# WordPress_library
+# Librairie Sylvestre
 
-Elaboration d'un portfolio (CV, lettre de motivation, compétences, etc.) en HTML/CSS/PHP.
+Elaboration d'un site e-commerce de vente de livres en ligne.
 
-Contenu
-Un fichier HTML.
-Un fichier CSS.
-Un fichier PHP pour le formulaire d'inscription de la page Contact.
-Les images et photos utilisées pour la création du site.
-Outils
-Visual Studio Code
+## Contenu
+1. Un fichier HTML.
+2. Un fichier CSS.
+3. Un fichier PHP pour le formulaire d'inscription de la page Contact.
+4. Les images et photos utilisées pour la création du site.
 
-Version
-Dernière version :
+## Outils
+WordPress
+Canva
 
-Auteur
+## Version
+Dernière version : 2021-07-21.
+
+## Auteur
 Melany Lascoux alias Lucyferra : https://github.com/Melany-Lascoux
