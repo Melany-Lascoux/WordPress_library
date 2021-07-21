@@ -16,24 +16,24 @@ Elaboration d'un site e-commerce de vente de livres en ligne.
 4. Un aperçu des titres des articles publiés récemments.
 
 ## Outils
-WordPress
-Canva
+* WordPress
+* Canva
 
 ## Charte Graphique
-Deux couleurs utilisées : vert et orange.
-Un logo personnalisé créé sur Canva.
-Deux polices de caractères utilisées : Josefyn Slab et Ubuntu.
+* Deux couleurs utilisées : vert et orange.
+* Un logo personnalisé créé sur Canva.
+* Deux polices de caractères utilisées : Josefyn Slab et Ubuntu.
 
 ## Plugin
-WooCommerce = extension gratuite qui permet de créer une boutique en ligne et de vendre vos produits/services sur internet.
-Yoast SEO = extension utilisé pour le référencement. Mise à jour il y a une semaine.
-Wordfence Security-Firewall & Malware Scan = extension de sécurité très utilisée. Mise à jour il y a 5 jours.
+* WooCommerce = extension gratuite qui permet de créer une boutique en ligne et de vendre vos produits/services sur internet.
+* Yoast SEO = extension utilisé pour le référencement. Mise à jour il y a une semaine.
+* Wordfence Security-Firewall & Malware Scan = extension de sécurité très utilisée. Mise à jour il y a 5 jours.
 
 ## Hébergement
-000webhost
+* 000webhost
 
 ## Version
-Dernière version : 2021-07-21.
+* Dernière version : 2021-07-21.
 
 ## Auteur
-Melany Lascoux alias Lucyferra : https://github.com/Melany-Lascoux
+* Melany Lascoux alias Lucyferra : https://github.com/Melany-Lascoux
