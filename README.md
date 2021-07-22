@@ -24,6 +24,7 @@ Elaboration d'un site e-commerce de vente de livres en ligne.
 * Deux couleurs utilisées : vert et orange.
 * Un logo personnalisé créé sur Canva.
 * Deux polices de caractères utilisées : Josefyn Slab et Ubuntu.
+* Le site est responsive.
 
 ## Plugin
 * WooCommerce = extension gratuite qui permet de créer une boutique en ligne et de vendre vos produits/services sur internet.
